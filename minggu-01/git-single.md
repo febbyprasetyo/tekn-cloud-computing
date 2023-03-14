@@ -74,14 +74,6 @@ $ git config --global user.email email@domain.tld
 ```
 Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub. Untuk melihat konfigurasi yang sudah ada:
 
-```
-$ git config --list
-user.email=phylossophie@gmail.com
-user.name=Bambang Purnomosidi D. P.
-color.ui=true
-$
-```
-
 ![Capture16](https://user-images.githubusercontent.com/122883189/224083982-4ef62a87-1c0c-4a84-9c33-76fbceb1b9e3.PNG)
 
 # Mengelola Repo Sendiri di Account Sendiri

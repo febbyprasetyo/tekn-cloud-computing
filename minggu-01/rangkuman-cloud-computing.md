@@ -1,5 +1,6 @@
 # Pengertian Cloud Computing
 Komputasi cloud (bahasa Inggris: cloud computing) adalah gabungan pemanfaatan teknologi komputer ('komputasi') dan pengembangan berbasis Internet ('cloud'). Cloud adalah metafora dari internet. Computing adalah suatu paradigma di mana informasi secara permanen tersimpan di server internet dan tersimpan secara sementara di komputer pengguna (client) termasuk di dalamnya adalah desktop, komputer tablet, notebook, komputer dinding, handheld, sensor-sensor, monitor dan lain-lain
+
 # Sejarah Cloud Komputing
 Pada tahun 50-an, Cloud Computing memiliki konsep yang mendasar. Ketika komputer mainframe yang tersedia dalam skala yang besar dalam dunia pendidikan dan perusahaan dapat diakses melalui komputer terminal disebut dengan Terminal statis. Agar penggunaan komputer mainframe yang relatif mahal menjadi efisien maka mengembangkan akses fisik komputer dari pembagian kinerja CPU. Hingga pertengahan tahun 70-an dikenal dengan RJE remote prosess Entry Home Job yang berkaitan besar dengan IBM dan DEC Mainframe.
 
@@ -17,7 +18,7 @@ Cloud Computing sudah semakin meningkat popularitasnya, dari mulai penerapan sis
 
 Oracle Corporation muncul menjadi pemain pertama yang mengembangkan komputasi awan ke dalam sistem ERP ini.
 
-## Manfaat komputasi awan
+## Manfaat komputasi Cloud
 
 Dari penjelasan tentang cloud computing diatas, ada banyak manfaat yang bisa kita ambil dari cloud computing, yaitu:
 
@@ -26,7 +27,7 @@ Dari penjelasan tentang cloud computing diatas, ada banyak manfaat yang bisa kit
 **.** Aksesibilitas, yaitu kita bisa mengakses data kapanpun dan di manapun kita berada, asal kita terkoneksi dengan internet, sehingga memudahkan kita mengakses data disaat yang penting.
 
 
-## Layanan komputasi awan
+## Layanan komputasi Cloud
 
 **Infrastructure as a Service**
 
@@ -53,9 +54,10 @@ Computer back end dalam skala besar biasanya berupa server komputer yang dilengk
 Penghubung keduanya bisa berupa jaringan LAN atau internet.
 
 ## Masalah yang dihadapi
-Dunia komputasi awan merupakan dunia baru karena tidak semua orang mengetahui teknologi baru tersebut. Contohnya komputasi cloud merupakan sarana penyimpanan data melalui jaringan internet maka internet wajib bagi pemakai komputasi cloud apabila terjadi masalah dalam internet maka akan menyebabkan komputer tersebut menjadi lambat karena proses yang terlalu lama. Masalah lain adalah jika suatu perusahaan menggunakan komputasi cloud dalam penyimpanan datanya maka akan sangat tergantung pada vendor karena perusahaan tersebut tidak mempunyai server langsung dalam komputasi cloud dan juga apabila vendor mempunyai layanan backup yang buruk atau server pada vendor rusak akan menyebabkan kerugian besar pada perusahaan tersebut karena semua data yang tersimpan pada vendor akan mengalami masalah. Masalah lain yang dapat timbul selain diatas adalah dengan banyak para peretas yang muncul dari berbagai dunia dalam meretas internet membuat vendor harus berhati-hati dalam mengelola sumber daya yang dipakai dalam komputasi cloud.
+Dunia komputasi cloud merupakan dunia baru karena tidak semua orang mengetahui teknologi baru tersebut. Contohnya komputasi cloud merupakan sarana penyimpanan data melalui jaringan internet maka internet wajib bagi pemakai komputasi cloud apabila terjadi masalah dalam internet maka akan menyebabkan komputer tersebut menjadi lambat karena proses yang terlalu lama. Masalah lain adalah jika suatu perusahaan menggunakan komputasi cloud dalam penyimpanan datanya maka akan sangat tergantung pada vendor karena perusahaan tersebut tidak mempunyai server langsung dalam komputasi cloud dan juga apabila vendor mempunyai layanan backup yang buruk atau server pada vendor rusak akan menyebabkan kerugian besar pada perusahaan tersebut karena semua data yang tersimpan pada vendor akan mengalami masalah. Masalah lain yang dapat timbul selain diatas adalah dengan banyak para peretas yang muncul dari berbagai dunia dalam meretas internet membuat vendor harus berhati-hati dalam mengelola sumber daya yang dipakai dalam komputasi cloud.
 
 ## Contoh komputasi cloud
+
 **1. Google Drive**
 
 Google Drive adalah layanan penyimpanan Online yang dimiliki Google. Google Drive diluncurkan pada tanggal 24 April 2012.  Google Drive memberikan kapasitas penyimpanan sebesar 5 GB kepada setiap penggunanya.

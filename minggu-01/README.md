@@ -1,7 +1,9 @@
-# My first project
+# Minggu-01
 
-Ini isi proyeka
+## SCM: Git dan Github
 
-Ini isi 1
+Urutan pembahasan adalah sebagai berikut:
 
-Ini Isi 2
+01. [Instalasi Git](https://github.com/febbyprasetyo/tekn-cloud-computing/blob/5c3538f025a9bbe4c7f7f3c4bb6073ebc022c73f/minggu-01/git-single.md)
+
+02. [Rangkuman Cloud Computing](https://github.com/febbyprasetyo/tekn-cloud-computing/blob/5c3538f025a9bbe4c7f7f3c4bb6073ebc022c73f/minggu-01/rangkuman-cloud-computing.md)

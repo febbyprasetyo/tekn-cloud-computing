@@ -19,6 +19,7 @@
 8. Selanjutnya mengedit file server.js Anda . Masukkan kode berikut:
 
 ![8](https://user-images.githubusercontent.com/122883189/227853714-bc730a26-5cc9-4b49-89cc-493706214ff9.PNG)
+
 Pastikan file telah disimpan sebelum melanjutkan.
 
 9. Selanjutnya, buat file bernama .gitignore yang berisi teks:
@@ -48,6 +49,7 @@ node_modules
 1. Pertama, buka repositori GitHub Anda yang baru dibuat dan klik tombol "salin" di blok "Pengaturan Cepat":
 
 ![10](https://user-images.githubusercontent.com/122883189/227855750-4a71f13a-090a-406c-868c-48f684c292e9.PNG)
+
 Ini akan menyalin URL repositori GitHub jarak jauh Anda.
 
 2. Selanjutnya, kembali ke Terminal Anda lagi dan tambahkan URL jarak jauh ini dengan menjalankan perintah berikut:

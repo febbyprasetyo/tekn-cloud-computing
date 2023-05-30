@@ -11,8 +11,10 @@
 
 ## Install MySQL
 1. Download MySQL Installer melalui [MySQL](https://dev.mysql.com/downloads/installer/)
+![mysql1](https://github.com/febbyprasetyo/tekn-cloud-computing/assets/122883189/f0f7f155-ae9d-4e26-af23-ce78a6d0b033)
 
 2. Setelah instalasi selesai, cek versinya
+![mysql2](https://github.com/febbyprasetyo/tekn-cloud-computing/assets/122883189/e644e875-af37-444e-88f8-382260958fb8)
 
 ## Install MongoDB
 1. Download MongoDB melalui [MongoDB](https://www.mongodb.com/try/download/community)
